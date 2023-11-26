@@ -344,10 +344,6 @@ span{
     gap: 1rem;
 }
 
-.banner .content + .content {
-    margin-left: -35rem; /* Adjust the negative margin as needed */
-}
-
 .banner .content {
     max-width: 40rem;
     background: #fff;
